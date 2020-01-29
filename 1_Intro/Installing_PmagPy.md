@@ -28,7 +28,7 @@ Use the terminal or an Anaconda Prompt for the following steps:
    <create-env-file-manually>`.
 
 
-- Activate the new environment: ``conda activate myenv``
+- Activate the new environment: ``conda activate pmagpy_miniconda``
 
 - Verify that the new environment was installed correctly:
 
@@ -45,4 +45,27 @@ Use the terminal or an Anaconda Prompt for the following steps:
       In [1]: import pmagpy.ipmag as ipmag 
       In [2]: ipmag.igrf([2020,0,37.87, -122.27])
  ```
-   
+  
+ You should see
+ ```
+      Out[2]: array([1.37988492e+01, 6.13403282e+01, 4.86139947e+04])
+ ```
+ 
+ You can then quit out of the ipython prompt:
+ ```
+      In [3]: ipmag.igrf([2020,0,37.87, -122.27])
+ ```
+ 
+ ## Add the PmagPy environment to your Jupyter kernels
+ 
+ At the terminal type:
+ ```
+      conda install ipykernel
+ ```
+
+ ## Launch Jupyterlab
+ 
+  At the terminal type:
+ ```
+      jupyter lab
+ ```
