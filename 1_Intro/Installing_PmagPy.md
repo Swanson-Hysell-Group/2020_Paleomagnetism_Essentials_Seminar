@@ -2,6 +2,9 @@
 
 ## Install miniconda
 
+Install a Python 3.7 version of miniconda:
+https://docs.conda.io/en/latest/miniconda.html
+
 ## Creating a PmagPy environment from the environment.yml file
 
 Use the terminal or an Anaconda Prompt for the following steps:
