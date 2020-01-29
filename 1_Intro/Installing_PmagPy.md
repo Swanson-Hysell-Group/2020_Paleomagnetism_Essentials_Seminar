@@ -2,7 +2,7 @@
 
 ## Install miniconda
 
-Install a Python 3.7 version of miniconda:
+Install a **Python 3.7** version of miniconda:
 https://docs.conda.io/en/latest/miniconda.html
 
 ## Install jupyterlab
