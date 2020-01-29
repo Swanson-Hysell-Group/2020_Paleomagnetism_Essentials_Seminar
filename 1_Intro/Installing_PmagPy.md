@@ -10,7 +10,7 @@ https://docs.conda.io/en/latest/miniconda.html
 Use the terminal or an Anaconda Prompt to install Jupyter:
 
 ```
-      conda install jupyterlab
+conda install jupyterlab
 ```
 
 ## Create a PmagPy environment from the environment.yml file
@@ -20,7 +20,7 @@ Use the terminal or an Anaconda Prompt for the following steps:
 - Create the environment from the ``environment.yml`` file:
 
 ```
-      conda env create -f environment.yml
+conda env create -f environment.yml
 ```
 
    The first line of the ``yml`` file sets the new environment's
@@ -33,7 +33,7 @@ Use the terminal or an Anaconda Prompt for the following steps:
 - Verify that the new environment was installed correctly:
 
 ```
-      conda env list
+conda env list
 ```
 
   You can also use ``conda info --envs``.
@@ -41,31 +41,31 @@ Use the terminal or an Anaconda Prompt for the following steps:
  - Verify that PmagPy is functioning:
  
 ```
-      ipython     
-      In [1]: import pmagpy.ipmag as ipmag 
-      In [2]: ipmag.igrf([2020,0,37.87, -122.27])
+ipython     
+In [1]: import pmagpy.ipmag as ipmag 
+In [2]: ipmag.igrf([2020,0,37.87, -122.27])
  ```
   
  You should see
  ```
-      Out[2]: array([1.37988492e+01, 6.13403282e+01, 4.86139947e+04])
+Out[2]: array([1.37988492e+01, 6.13403282e+01, 4.86139947e+04])
  ```
  
  You can then quit out of the ipython prompt:
  ```
-      In [3]: ipmag.igrf([2020,0,37.87, -122.27])
+In [3]: ipmag.igrf([2020,0,37.87, -122.27])
  ```
  
  ## Add the PmagPy environment to your Jupyter kernels
  
  At the terminal type:
  ```
-      conda install ipykernel
+conda install ipykernel
  ```
 
  ## Launch Jupyterlab
  
   At the terminal type:
  ```
-      jupyter lab
+jupyter lab
  ```
