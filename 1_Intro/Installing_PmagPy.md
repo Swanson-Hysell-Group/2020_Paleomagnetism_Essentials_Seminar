@@ -5,7 +5,15 @@
 Install a Python 3.7 version of miniconda:
 https://docs.conda.io/en/latest/miniconda.html
 
-## Creating a PmagPy environment from the environment.yml file
+## Install jupyterlab
+
+Use the terminal or an Anaconda Prompt to install Jupyter:
+
+```
+      conda install jupyterlab
+```
+
+## Create a PmagPy environment from the environment.yml file
 
 Use the terminal or an Anaconda Prompt for the following steps:
 
