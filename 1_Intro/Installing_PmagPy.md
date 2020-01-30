@@ -37,35 +37,36 @@ conda env list
 ```
 
   You can also use ``conda info --envs``.
-  
+
  - Verify that PmagPy is functioning:
- 
+
 ```
 ipython     
-In [1]: import pmagpy.ipmag as ipmag 
+In [1]: import pmagpy.ipmag as ipmag
 In [2]: ipmag.igrf([2020,0,37.87, -122.27])
  ```
-  
+
  You should see
  ```
 Out[2]: array([1.37988492e+01, 6.13403282e+01, 4.86139947e+04])
  ```
- 
+
  You can then quit out of the ipython prompt:
  ```
 In [3]: ipmag.igrf([2020,0,37.87, -122.27])
  ```
- 
+
  ## Add the PmagPy environment to your Jupyter kernels
- 
- At the terminal type:
+
+At the terminal type:
  ```
-conda install ipykernel
+python -m ipykernel install --user --name pmagpy
  ```
 
  ## Launch Jupyterlab
- 
-  At the terminal type:
+
+Open a new terminal window. At the terminal type:
  ```
 jupyter lab
  ```
+You should have the option to choose `pmagpy` as a kernel for a Jupyter notebook.
