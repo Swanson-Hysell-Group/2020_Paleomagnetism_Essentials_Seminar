@@ -1,7 +1,7 @@
 # 2020_Paleomagnetism_Essentials_Seminar
 
 Materials associated with 2020 seminar on Essentials of Paleomagnetism
-Wednesdays from 1:30 pm to 3:30 in McCone 345
+Wednesdays from 1:30 pm to 3:30 in McCone 345.
 
 | Meeting Date | Reading/Prep | During seminar |
 |--------------|--------------|----------------|
