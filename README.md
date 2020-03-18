@@ -13,5 +13,6 @@ Wednesdays from 1:30 pm to 3:30 in McCone 345.
 |03/04/20|   **Read:** Chapter 9 (*Getting a Paleomagnetic Direction*) of https://earthref.org/MagIC/books/Tauxe/Essentials/ **Watch:** [Tauxe Lecture 4](https://drive.google.com/open?id=1rg5-rBdQecegYlv_SPAskJUZHARoX1hy) | Discuss key concepts. Work through Demag GUI tutorial. https://github.com/Swanson-Hysell-Group/2020_Demag_GUI_tutorial |
 |03/11/20|   **Read:** Chapter 11 (*Fisher Statistics*) of https://earthref.org/MagIC/books/Tauxe/Essentials/ **Watch:** [Tauxe Lecture 4](https://drive.google.com/open?id=1rg5-rBdQecegYlv_SPAskJUZHARoX1hy). **Download the file to watch it if you have not already.**  [Tauxe Lecture 5](https://drive.google.com/file/d/1TDvLQZyVGIFQH-2HWmF5o8AR1OH5nvxG/view?usp=sharing) | Discuss key concepts|
 |03/18/20|  **Calculate and plot:**  Do problems 1 and 2 of Essentials of Paleomagnetism Chapter 11 | Discuss key concepts and review problems. |
+|04/01/20|  **Read:** Chapter 12 (*Beyond Fisher statistics*) of https://earthref.org/MagIC/books/Tauxe/Essentials/. **Calculate and plot:**  Do problems 1 and 2 of Essentials of Paleomagnetism Chapter 12 | Discuss key concepts and review problems. |
 
 
