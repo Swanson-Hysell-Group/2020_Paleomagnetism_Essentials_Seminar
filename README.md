@@ -15,6 +15,8 @@ Wednesdays from 1:30 pm to 3:30 in McCone 345 (or on Zoom).
 |03/18/20|  **Calculate and plot:**  Do problems 1 and 2 of Essentials of Paleomagnetism Chapter 11 | Discuss key concepts and review problems. |
 |04/01/20|  **Read:** Chapter 12 (*Beyond Fisher statistics*) of https://earthref.org/MagIC/books/Tauxe/Essentials/. **Calculate and plot:**  Do problems 1 and 2 of Essentials of Paleomagnetism Chapter 12 | Discuss key concepts and review problems. |
 |04/08/20|  **Read:** Chapter 10 (*Paleointensity*) of https://earthref.org/MagIC/books/Tauxe/Essentials/. **Calculate and plot:**  Do problem 3 Essentials of Paleomagnetism Chapter 12 and send to Nick | Yiming gives paleointensity presentation. |
-|04/15/20|  **Do:** Complete the Thellier GUI tutorial you find here: https://www.youtube.com/watch?v=vRDiIXCm-sY using Pmag GUI. Send a screenshot of interpretations you have made to the paleointensity data in Thellier GUI to Nick. | |
+|04/15/20|  **Do:** Complete the Thellier GUI tutorial you find here: https://www.youtube.com/watch?v=vRDiIXCm-sY using Pmag GUI. Send a screenshot of interpretations you have made to the paleointensity data in Thellier GUI to Nick. | Follow-up paleointensity discussion |
+|04/22/20|  **Read:** Chapter 16 (*Tectonic Applications of Paleomagnetism*) of https://earthref.org/MagIC/books/Tauxe/Essentials/. | Paleogeography lecture |
+|04/29/20|  **Do:** Follow the excellent GPlates tutorial of Lydian Boschmann (parts 1: https://www.youtube.com/watch?v=mO_Z6z9ACQc and 2: https://www.youtube.com/watch?v=p65SYiopY78). The files are all available here: https://github.com/Swanson-Hysell-Group/2020_Paleomagnetism_Essentials_Seminar/tree/master/8_GPlates **Send Nick your completed .rot file**| Paleogeography lecture |
 
 
